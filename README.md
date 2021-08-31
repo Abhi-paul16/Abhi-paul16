@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhi-paul16
 - 👀 I’m interested in ... Coding ,Travelling , Gaming
-- 🌱 I’m currently learning ... Vanila JAVASCRIPT
+- 🌱 I’m currently learning ... React JS
 - 📫 How to reach me ...Youtube[Abhishek Pal](https://www.youtube.com/channel/UCRw7mOOoihlGwkHsSssTCQw)
 
 
