@@ -7,7 +7,7 @@
 
 
 - I’m currently learning **React JS**
-- 📫 How to reach me **shreyaansjain60@gmail.com** 
+- 📫 How to reach me **abhishek1100861@gmail.com** 
 
 
 <h3 align="left">Connect with me:</h3>
@@ -15,7 +15,7 @@
   <a href="https://twitter.com/shreyaansjain06" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/Abhishek_pal16/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="Abhishek_pal16"
       height="30"
       width="40"
@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/abhishek-pal-907866218/" target="blank"
     ><img
       align="center"
-      src="/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Abhishek Pal"
       height="30"
       width="40"
@@ -31,7 +31,7 @@
   <a href="https://www.instagram.com/abhishek_pal16/" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/abhishek_pal16/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Abhishek Pal"
       height="30"
       width="40"
