@@ -125,7 +125,7 @@
 <h3 align="left">📈 Stats</h3>
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shreyaansjain06&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaansjain06&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhi-paul16&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi-paul16&theme=tokyonight" />
 </p>
 
