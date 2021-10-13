@@ -88,7 +88,7 @@
     />
   </a>
 
-  <a href="https://nodejs.org" target="_blank">
+  <a href="https://tailwindcss.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"
       alt="nodejs"
