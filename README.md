@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Front+End+Developer;Freelancer;Open-Source+Enthusiast;Nice+To+Meet+You+...&center=true">
   </p>
   
-![Abhishek Pal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Abhi-paul16&theme=react-dark)
-
 
 - I’m currently learning **React JS**
 - 📫 How to reach me **abhishek1100861@gmail.com** 
