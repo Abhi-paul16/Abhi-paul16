@@ -4,7 +4,7 @@
   </p>
   
 
-- I’m currently learning **React JS**
+- I’m currently learning **React JS , Redux**
 - 📫 How to reach me **abhishek1100861@gmail.com** 
 
 
