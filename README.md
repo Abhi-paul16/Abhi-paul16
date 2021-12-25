@@ -119,6 +119,17 @@
       height="40"
     />
   </a>	
+
+  <a href="https://nextjs.org/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" 
+      alt="Next.js"
+      width="40"
+      height="40"
+    />
+  </a>	
+	
+	
 	
 </p>
 
