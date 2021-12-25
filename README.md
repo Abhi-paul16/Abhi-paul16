@@ -111,6 +111,15 @@
       height="40"
     />
   </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/next/next-original.svg"
+      alt="Next.js"
+      width="40"
+      height="40"
+    />
+  </a>	
+	
 </p>
 
 <h3 align="left">📈 Stats</h3>
