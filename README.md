@@ -113,7 +113,7 @@
   </a>
   <a href="https://nextjs.org/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/next/next-original.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
       alt="Next.js"
       width="40"
       height="40"
