@@ -120,7 +120,7 @@
     />
   </a>	
 
-  <a href="https://nextjs.org/" target="_blank">
+  <a href="https://mui.com/" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" 
       alt="Next.js"
