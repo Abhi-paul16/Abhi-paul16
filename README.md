@@ -36,13 +36,12 @@
   /></a>
 </p>
 
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 	
-	  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-  >
+	  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" >
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
@@ -51,10 +50,7 @@
     />
   </a>
 	
-	
-	
-	
-	  <a href="https://reactjs.org/" target="_blank">
+   <a href="https://reactjs.org/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react"
