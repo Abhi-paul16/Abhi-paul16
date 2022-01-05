@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Front+End+Developer;Freelancer;Open-Source+Enthusiast;Nice+To+Meet+You+...&center=true">
   </p>
-  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=parul5sahoo&label=Profile%20views&color=0e75b6&style=flat" alt="parul5sahoo" /> </p>
 
 - I’m currently learning Next.js 
 - 📫 How to reach me **abhishek1100861@gmail.com** 
