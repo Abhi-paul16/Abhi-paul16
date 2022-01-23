@@ -4,7 +4,7 @@
   </p>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=parul5sahoo&label=Profile%20views&color=0e75b6&style=flat" alt="parul5sahoo" /> </p>
 
-- I’m currently learning Next.js & DSA with java
+- I’m currently learning Next.js , Devops & DSA with java
 - How to reach me **abhishek1100861@gmail.com** 
 
 
