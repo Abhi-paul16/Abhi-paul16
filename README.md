@@ -4,8 +4,12 @@
   </p>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=parul5sahoo&label=Profile%20views&color=0e75b6&style=flat" alt="parul5sahoo" /> </p>
 
-- I’m currently learning Next.js , Devops & DSA with java
-- How to reach me **abhishek1100861@gmail.com** 
+* 🌍  I'm based in India
+* ✉️  You can contact me at [abhishek1100861@gmail.com](mailto:abhishek1100861@gmail.com)
+* 🚀  I'm currently working on [React JS](http://reactjs.org/)
+* 🧠  I'm learning Redux , DSA , Material UI
+* 🤝  I'm open to collaborating on Frontend Development
+* ⚡  watch my documenting videos on Youtube
 
 
 <h3 align="left">Connect with me:</h3>
