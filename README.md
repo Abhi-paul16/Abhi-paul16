@@ -7,7 +7,7 @@
 * 🌍  I'm based in India
 * ✉️  You can contact me at [abhishek1100861@gmail.com](mailto:abhishek1100861@gmail.com)
 * 🚀  I'm currently working on [React JS](http://reactjs.org/)
-* 🧠  I'm learning node js , web 3.0 , Next JS
+* 🧠  I'm learning node js , DSA , Graph Ql
 * 🤝  I'm open to collaborating on Frontend Development(React js)
 * ⚡  watch my documenting videos on Youtube
 
